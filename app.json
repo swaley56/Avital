@@ -1,0 +1,12 @@
+{
+  "name": "Avital",
+  "displayName": "Avital",
+  "expo": {
+    "name": "Avital",
+    "slug": "Avital",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
